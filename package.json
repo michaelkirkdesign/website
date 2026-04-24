@@ -1,0 +1,12 @@
+{
+  "name": "michaelkirkdesign-website",
+  "version": "1.0.0",
+  "description": "MK Design website with Vercel Speed Insights",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "latest"
+  }
+}
